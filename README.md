@@ -73,8 +73,7 @@ The CUDA benchmark script JIT-compiles the extension on first use and expects a 
 
 ```bibtex
 @article{jzp2026isoquant,
-  title={IsoQuant: Hardware-Aligned SO(4) Isoclinic Rotations
-for LLM KV Cache Compression},
+  title={IsoQuant: Hardware-Aligned SO(4) Isoclinic Rotations for LLM KV Cache Compression},
   author={Zhongping Ji},
   year={2026},
   note={Technical report}
