@@ -110,11 +110,14 @@ done
 ## Citation
 
 ```bibtex
-@article{jzp2026isoquant,
-  title={IsoQuant: Hardware-Aligned SO(4) Isoclinic Rotations for LLM KV Cache Compression},
-  author={Zhongping Ji},
-  year={2026},
-  note={Technical report}
+@misc{ji2026isoquanthardwarealignedso4isoclinic,
+      title={IsoQuant: Hardware-Aligned SO(4) Isoclinic Rotations for LLM KV Cache Compression}, 
+      author={Zhongping Ji},
+      year={2026},
+      eprint={2603.28430},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2603.28430}, 
 }
 ```
 
