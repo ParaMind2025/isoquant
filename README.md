@@ -2,6 +2,8 @@
 
 IsoQuant is a blockwise rotation quantization prototype based on quaternion algebra and the isoclinic decomposition of `SO(4)`. It replaces RotorQuant's 3D Clifford blocks with hardware-aligned 4D quaternion blocks and currently focuses on the stage-1 quantize-dequantize path for LLM KV-cache compression.
 
+For more evaluations, please see [RotorQuant](https://github.com/scrya-com/rotorquant).
+
 ## Current Status
 
 This repository is an early research prototype.
